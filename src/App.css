@@ -1,0 +1,15 @@
+.border-box {
+    border: 1px;
+    border-style: double;
+    background-color: whitesmoke;
+    margin: 1em;
+    padding: 1em;
+    border-color: blue;
+    
+}
+html{
+    background-color: rgb(179, 140, 215);
+}
+.text-muted{
+    color: aqua;
+}
